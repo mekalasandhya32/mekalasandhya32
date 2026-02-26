@@ -12,60 +12,76 @@
 
 ---
 
+---
+
 ## 🛠️ Technical Skills
+
 - **Programming Languages:** Java, Python, C, PL/SQL  
 - **Web Technologies:** HTML, CSS, JavaScript  
-- **Frameworks & Tools:** JDBC, JSP, Flutter, Django  
+- **Java Stack:** JDBC, Servlets, JSP  
+- **Frameworks & Tools:** Flutter, Django, Git, Apache Tomcat  
 - **Databases:** MySQL  
 - **Problem Solving:** Data Structures & Algorithms  
-  (Trees, Graphs, Dynamic Programming, Backtracking, etc.)
+  (Trees, Graphs, Heaps, Dynamic Programming, Greedy, Backtracking)
+
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Projects
 
-- 🔹 **Ultimate Java Explorer**  
-  A Java-based standalone system utility with modules for File Management, Task Monitoring, Network Analysis, and an AI Chat Assistant.
+### 🎯 Quizaard – Java Full Stack Online Quiz Platform
+🔗 Repository: https://github.com/Sandhya23761A1232/Quizaard  
 
-- 🔹 **Smart Library Management System**  
-  GUI-based Java application for managing book borrowing, returning, and tracking efficiently.
+Developed a full-stack online quiz platform using Java, JDBC, JSP, HTML, CSS, and MySQL.
 
-- 🔹 **Quizzard – Java Full Stack Online Quiz Platform**  
-  Interactive quiz platform developed using JDBC & JSP with authentication and real-time scoring.
-
-- 🔹 **Flutter Grocery App**  
-  A cross-platform grocery shopping mobile application built using **Flutter and Dart**.  
-  Features include product browsing, detailed product view, cart management, real-time total calculation, and smooth navigation.  
-  Designed with a clean and responsive UI, supporting both **Android and iOS** platforms.
-
-- 🔹 **Meat the Meet**  
-  🌐 [Live Demo](https://meatthemeet.netlify.app/)  
-  A responsive front-end web project showcasing modern UI design and layout techniques.
+✔ Secure User Authentication  
+✔ Dynamic Question Loading from Database  
+✔ Real-Time Score Calculation  
+✔ Multiple Quiz Categories  
+✔ Answer Storage & Result Generation  
 
 ---
 
-## 📜 Certifications
-- Responsive Web Designing – Infosys Springboard  
-- Problem Solving (Intermediate) – HackerRank  
-- Programming in Java (Basic) – HackerRank  
-- SQL (Advanced) – HackerRank  
-- TalentNext Java Full Stack – Wipro  
+### 💻 Ultimate Java Explorer – System Utility Application
+Standalone Core Java & Swing-based system utility applying OOP, multithreading, and file handling concepts.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandhya23761A1232&show_icons=true&theme=default" alt="Sandhya's GitHub stats" />
-</p>
+### 📚 Smart Library Management System
+Java-based GUI application managing library operations using arrays, linked lists, and hash maps.
 
 ---
 
-## 🤝 Connect With Me
-<p align="center">
-  <a href="mailto:sandhyamekala435@gmail.com">📧 Email</a> |
-  <a href="https://www.linkedin.com/in/sandhyamekala">🔗 LinkedIn</a>
-</p>
+### 🌐 Meet The Meet – Front-End Web Application
+🔗 Live: https://meatthemeet.netlify.app/
+
+Responsive web application built using HTML, CSS, and JavaScript with interactive UI components.
 
 ---
 
-✨ *Learning by building, growing by sharing.*
+## 🏆 Certifications
+
+- Programming in Java – HackerRank  
+- SQL for Beginners – Scaler Topics  
+- Problem Solving – HackerRank  
+- Data Analytics with Python – NPTEL  
+- OCI Generative AI Professional – Oracle (2025)
+
+---
+
+## 💼 Internships
+
+🔹 Java Full Stack Development Intern – Shikhara Embedded Solutions Pvt. Ltd. (2025)  
+🔹 ServiceNow Virtual Internship – SmartBridge (AICTE) (2025)
+
+---
+
+## 📫 Connect With Me
+
+📧 sandhyamekala435@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/sandhyamekala  
+🐙 GitHub: https://github.com/Sandhya23761A1232  
+
+---
+
+⭐ Thanks for visiting my profile!
