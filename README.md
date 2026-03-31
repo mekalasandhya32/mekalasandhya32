@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sandhya Mekala</h1>
+<h1 align="center">Hi, I'm Mekala Sandhya</h1>
 <h3 align="center">Aspiring Software Engineer | IT Undergraduate | Java Enthusiast</h3>
 
 ---
