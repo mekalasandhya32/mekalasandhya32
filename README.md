@@ -1,87 +1,180 @@
-<h1 align="center">Hi, I'm Mekala Sandhya</h1>
-<h3 align="center">Aspiring Software Engineer | IT Undergraduate | Java Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Mekala Sandhya</h1>
+<h3 align="center">Final-Year B.Tech IT Student | Java Full Stack Developer | AI & Web Development Enthusiast</h3>
+
+<p align="center">
+Passionate about building scalable software solutions using Java, Python, React, Flask, MySQL, and AI technologies.
+</p>
 
 ---
 
-## 👩‍💻 About Me
-- Pursuing **B.Tech in Information Technology** at  
-  [Lakireddy Bali Reddy College of Engineering](https://www.lbrce.ac.in/) (2023–2027)  
-- Passionate about **Java Development**, **Problem Solving**, and **Full-Stack Web Development**  
-- Actively exploring **AI-powered tools**, **Java-based utilities**, and innovative **IT projects**  
-- Eager to contribute to **open-source projects** and collaborate with other developers  
+# 👩‍💻 About Me
+
+🎓 Final-Year B.Tech Information Technology Student at **Lakireddy Bali Reddy College of Engineering (2023–2027)**
+
+💻 Passionate about Software Development, Java Full Stack Development, AI Applications, and Cloud Computing.
+
+🚀 I enjoy building real-world applications that combine modern web technologies with intelligent automation.
+
+🌱 Currently exploring:
+- Advanced Java Backend Development
+- React & Flask
+- Artificial Intelligence
+- Cloud Technologies (AWS)
+- System Design
 
 ---
 
----
+# 🛠️ Tech Stack
 
-## 🛠️ Technical Skills
+### 💻 Programming Languages
+- Java
+- Python
+- JavaScript
+- C
+- PL/SQL
 
-- **Programming Languages:** Java, Python, C, PL/SQL  
-- **Web Technologies:** HTML, CSS, JavaScript  
-- **Java Stack:** JDBC, Servlets, JSP  
-- **Frameworks & Tools:** Flutter, Django, Git, Apache Tomcat  
-- **Databases:** MySQL  
-- **Problem Solving:** Data Structures & Algorithms  
-  (Trees, Graphs, Heaps, Dynamic Programming, Greedy, Backtracking)
+### 🌐 Web Technologies
+- HTML5
+- CSS3
+- JavaScript
+- React
+- JSP
+- Servlets
 
+### ⚙️ Frameworks & Tools
+- Flask
+- Django
+- JDBC
+- Git
+- GitHub
+- Apache Tomcat
+- VS Code
 
----
+### 🗄️ Databases
+- MySQL
+- Google Sheets API
 
-## 🚀 Featured Projects
+### ☁️ Cloud & Platforms
+- AWS Cloud
+- ServiceNow
 
-### 🎯 Quizaard – Java Full Stack Online Quiz Platform
-🔗 Repository: https://github.com/Sandhya23761A1232/Quizaard  
-
-Developed a full-stack online quiz platform using Java, JDBC, JSP, HTML, CSS, and MySQL.
-
-✔ Secure User Authentication  
-✔ Dynamic Question Loading from Database  
-✔ Real-Time Score Calculation  
-✔ Multiple Quiz Categories  
-✔ Answer Storage & Result Generation  
-
----
-
-### 💻 Ultimate Java Explorer – System Utility Application
-Standalone Core Java & Swing-based system utility applying OOP, multithreading, and file handling concepts.
-
----
-
-### 📚 Smart Library Management System
-Java-based GUI application managing library operations using arrays, linked lists, and hash maps.
-
----
-
-### 🌐 Meet The Meet – Front-End Web Application
-🔗 Live: https://meatthemeet.netlify.app/
-
-Responsive web application built using HTML, CSS, and JavaScript with interactive UI components.
+### 📚 Core CS
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- DBMS
+- Operating Systems
+- Computer Networks
 
 ---
 
-## 🏆 Certifications
+# 🚀 Featured Projects
 
-- Programming in Java – HackerRank  
-- SQL for Beginners – Scaler Topics  
-- Problem Solving – HackerRank  
-- Data Analytics with Python – NPTEL  
-- OCI Generative AI Professional – Oracle (2025)
+## 💰 FinWise AI – Intelligent Loan Eligibility, Credit Analysis & Financial Advisory Platform
 
----
+AI-powered BFSI web application built using **HTML, CSS, JavaScript, Claude AI, and Google Sheets API**.
 
-## 💼 Internships
-
-🔹 Java Full Stack Development Intern – Shikhara Embedded Solutions Pvt. Ltd. (2025)  
-🔹 ServiceNow Virtual Internship – SmartBridge (AICTE) (2025)
+### Features
+- 🤖 AI Financial Advisor
+- 💳 Credit Score Analysis
+- 💸 EMI Calculator
+- 🏦 Loan Eligibility Prediction
+- 📊 Financial Risk Assessment
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Quizzard – Java Full Stack Online Quiz Platform
 
-📧 sandhyamekala435@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/sandhyamekala  
-🐙 GitHub: https://github.com/Sandhya23761A1232  
+Developed using **Java, JDBC, JSP, HTML, CSS, and MySQL**.
+
+### Features
+- Secure Authentication
+- Quiz Management
+- Dynamic Questions
+- Real-Time Score Generation
+- MySQL Database Integration
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📚 Smart Library Management System
+
+Desktop application developed using **Java Swing, JDBC, and MySQL**.
+
+### Features
+- User Authentication
+- Book Management
+- Issue & Return Tracking
+- CRUD Operations
+- OOP-based Modular Design
+
+---
+
+# 💼 Internships
+
+### Java Full Stack Development Intern
+**Shikhara Embedded Solutions Pvt. Ltd. (2025)**
+
+- Java Full Stack Development
+- Frontend & Backend Development
+- Database Integration
+- Project-based Learning
+
+### ServiceNow Virtual Internship
+**SmartBridge (AICTE) (2025)**
+
+- ServiceNow Administration
+- Flow Designer
+- ITSM
+- ATF
+- CSA Exam Preparation
+
+---
+
+# 🏆 Certifications
+
+🏅 AWS Certified Cloud Practitioner
+
+🏅 OCI Generative AI Professional
+
+🏅 Programming using Java – Infosys
+
+🏅 Python Essentials 1 & 2 – Cisco Networking Academy
+
+🏅 Problem Solving – HackerRank
+
+🏅 SQL for Beginners (MySQL & Database Design) – Scaler
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mekalasandhya32&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mekalasandhya32&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekalasandhya32&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** sandhyamekala435@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/mekalasandhya
+
+🐙 **GitHub:** https://github.com/mekalasandhya32
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! Let's build something amazing together. 🚀
+
+</p>
